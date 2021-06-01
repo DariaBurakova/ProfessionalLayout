@@ -1,0 +1,29 @@
+[{
+    "id_product": 100,
+    "product_name": "Ноутбук",
+    "price": 45600,
+    "imgProduct": "./img/100.png"
+    
+  },
+  {
+    "id_product": 457,
+    "product_name": "Gamepad",
+    "price": 3000,
+    "imgProduct": "./img/458.jpeg"
+    
+  },
+  {
+    "id_product": 278,
+    "product_name": "Клавиатура",
+    "price": 1600,
+    "imgProduct": "./img/278.png"
+
+  },
+  {
+    "id_product": 792,
+    "product_name": "Наушники",
+    "price": 3700,
+    "imgProduct": "./img/792.png"
+    
+  }
+]
